@@ -1,0 +1,6 @@
+RelatedTopicsID,Topics_Name,Since,NewsID,CategoryID
+R01,"Indonesia plane crash probe focuses on autothrottle",2021-01-22,News01,Category01
+R02,"A model for urban renewal or a warning sign?",2021-02-22,News02,Catogory02
+R03,"Myanmar coup: At least two killed as police disperse protesters",2021-02-21,News03,Category03
+R04,"Covid: Anti-vaccination protests held in Australia ahead of rollout",2021-02-21,News04,Category04
+R05,"Venezuela crisis in 300 words",2020-12-03,News05,Category05

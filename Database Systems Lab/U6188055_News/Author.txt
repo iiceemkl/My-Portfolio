@@ -1,0 +1,6 @@
+AuthorID,Author_Firstname,Author_Surname,Author_Nickname,Gender
+BBC01,Chad,Schnell,Max,Male
+BBC02,Christina,Beverly,Jane,Female
+BBC03,Aungsan,Kyi,Suu,Female
+BBC04,Novak,Djokovic,John,Male
+BBC05,Suniti,Singh,Paul,Male

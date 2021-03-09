@@ -1,0 +1,6 @@
+NewsID,NewsTopic,PublishedDate,URL,Sources,CategoryID,AuthorID 
+News01,"Airlines ground Boeing 777s after Denver engine failure",2021-02-21,https://www.bbc.com/news/world-us-canada-56149894,"US & Canada",Category01,BBC01
+News02,"Texas weather: State should pay soaring power bills, says Houston mayor",2021-02-21,https://www.bbc.com/news/world-us-canada-56147311,"US & Canada",Category02,BBC02
+News03,"Myanmar coup: Military leaders must release Aung San Suu Kyi Raab",2021-02-21,https://www.bbc.com/news/uk-politics-56149359,"UK Politics",Category03,BBC03
+News04,"Covid: Australian Open fans criticised for 'booing vaccine'",2021-02-21,https://www.bbc.com/news/world-australia-56150021,"Australia",Category04,BBC04
+News05,"The most important humanitarian gesture in decades?",2021-02-21,https://www.bbc.com/news/av/world-latin-america-56091327,"Latin America & Caribbean",Category05,BBC05

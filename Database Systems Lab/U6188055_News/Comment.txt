@@ -1,0 +1,6 @@
+CommentID,User_Name,Content,From,NewsID
+AXT045,Lauren,"I just knew something was wrong",UnitedStates,News01
+NYO679,Sammy,"I love to see that volunteers handing out food to some of those affected",UnitedKingdom,News02
+EAV183,Wilson,"Why creatives are concerning Myanmar's army",Denmark,News03
+LUB479,Irene,"Police clash with anti-vaccine protesters in Melbourne",Canada,News04
+ZQS248,Lauren,"It is an issue that has repercussions for the whole region",UnitedStates,News05

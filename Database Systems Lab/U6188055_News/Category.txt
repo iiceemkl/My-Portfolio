@@ -1,0 +1,6 @@
+CategoryID,Category_Name
+Category01,AirTravel
+Category02,UnitedStates
+Category03,Politics
+Category04,Sport
+Category05,Economic
